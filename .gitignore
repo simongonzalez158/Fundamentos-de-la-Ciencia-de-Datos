@@ -1,0 +1,9 @@
+# Ignorar el ambiente virtual
+tpeamb/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar checkpoints de Jupyter Notebook
+*.ipynb_checkpoints
